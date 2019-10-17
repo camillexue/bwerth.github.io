@@ -18,7 +18,7 @@ created two personas who we felt represented our users.
 * Finds sitters for Kevin while flying
   * Uses a cane when without Kevin, in unfamiliar settings
   
-![Hasty Harold](harold.jpg)
+![Hasty Harold](harold.jpeg)
 
 ### Hasty Harold:
 * ~40 years old
@@ -55,7 +55,7 @@ where a visibly angry cane user found himself walking back and forth in circles 
 We created a list of potential designs to increase the speed and confidence with which people with blindness could 
 navigate the, then sketched the most promising ideas from that session.
 
-![Initial Ideation](ideation.jpg)
+![Initial Ideation](Ideation.jpg)
 
 Initial Ideation
 
