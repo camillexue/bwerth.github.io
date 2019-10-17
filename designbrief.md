@@ -40,6 +40,7 @@ Affinity Diagram indicating need and desire for fast solutions and existence of 
 ### Impact
 In all of our interviews so far, the overwhelming problem of transportation using public transit has been brought up unprompted. From the story of the blind man with a guide dog standing in the street long after the uber they had ordered had driven away without him, having seen the dog and decided against a pick up, to the blind sailor who almost fell onto a subway track, public transit is easily one of the most inaccessible resources for the visually impaired. Generally, we want to increase usage of and confidence in the Boston public transit system among the visually impaired. A successful solution will remove barriers associated with the use of public transit by the visually impaired in some way. A solution to this problem would make subway navigation possible for blind people without a dog or sighted guide. Instead of fearing for his life, Greg would be able to travel in the subway as a normal part of his routine. He would appreciate the subway, for the first time, as the indispensable tool we all know it to be. 
 
+## [Homepage](index.md)
 
 
 
