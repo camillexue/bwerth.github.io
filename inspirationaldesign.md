@@ -97,15 +97,4 @@ most visually impaired people. Perhaps we can find some way to have a ‘pack’
 visitors navigate a space, or maybe design some kind of robotic or virtual guide with some of the characteristics of a 
 guide dog.
 
-
-
-
-
-
-
-
-
-
-
-
-
+## [Homepage](index.md)
