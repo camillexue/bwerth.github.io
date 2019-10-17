@@ -120,7 +120,7 @@ not work because subway stops are already extremely loud. A magnetic tip in the 
 collect all kinds of metallic gunk over the course of a day. Engraved guides in the floor would fill up with dirt and 
 become undetectable. 
 
-![Effort Chart](effort_chart.png
+![Effort Chart](effort_chart.png)
 
 
 
