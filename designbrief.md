@@ -7,9 +7,7 @@ Public transit is halfway to anywhere, and is currently an obstacle for people w
 
 Through defining and exploring our problem, we have learned a lot about the key stakeholders. First, successful design starts and ends with visually impaired commuters. Also, in this phase of the project we learned that the relatives and friends of the visually impaired who are most likely to be acting as sighted guides are critical stakeholders. Sighted guides are currently the most significant resource that the blind use while travelling. One of our sources told us that he always brings a sighted guide when travelling to new places. It will be important for us to consider sighted guides in the design process, because any new solution needs to integrate with existing solutions successfully.
 
-![Greg](greg.jpg)
-
-Person portrait of Greg, a blind sailor who would benefit from our solution
+{% include image.html url="greg.jpg" description="Person portrait of Greg, a blind sailor who would benefit from our solution" %}
 
 ### Current Solutions and Our Approach
 Our users view public transit and, more generally, navigation as intimidating, scary, and sometimes completely inaccessible. For a blind person, daily life involves balancing what needs to get done with what is possible and easy. If an impaired person, Greg, needs to run errands, he first needs to thoroughly plan out his route and plan. Whereas people with sight can adapt to their environment and the possibility of going off route, for blind people going off route can mean getting hopelessly, and dangerously, lost. One of our sources relayed a story of a girl who took a wrong turn on the way from a dorm to a classroom and had to call for help. Existing solutions such as canes and dogs are useful for detecting short-range obstacles, they are less useful in getting an idea of surroundings or, for example, finding the stairs to the red line when the only indication of the red line is a red wall.
