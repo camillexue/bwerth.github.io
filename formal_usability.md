@@ -35,7 +35,7 @@ features and functionality. This is an improvement over our previous model that 
 to believe they did not exist at all. As for evaluating the best design of the longer instruction set styles, we looked at the
 following metrics:
 
-[Formal Usability Table](formalusabilitytable.png)
+![Formal Usability Table](formalusabilitytable.png)
 
 Based on our usability study results, we found that it took longer than expected for the users to successfully set their Green 
 line destination for both non-control situations. This was a result of having more functions and gestures to learn, potentially 
