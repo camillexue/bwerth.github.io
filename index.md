@@ -15,3 +15,5 @@ In considering the design, presentation, and layout of this website, it was impo
 ## [Design Refinement Brief](designrefinement.md)
 
 ## [Formal Usability Test Brief](formal_usability.md)
+
+## [Final Design Refinement Brief](designfinalrefinement.md)
