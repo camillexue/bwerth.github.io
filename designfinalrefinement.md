@@ -49,6 +49,9 @@ Be applicable to a specific prblem | The app addresses a very specific problem, 
 Meats By Dre feels that their product adequately addresses the majority of the original criteria they set.
 They consider the app a success, and feel that with a few minor changes it would prove a helpful tool.
 
+### Differences in Testing with UX Experts vs. Content Experts
+In the later stages of our wire frame, we tested our interface with sighted users who are familiar with designing a User Experience and could give valuable feedback in that space. With this in mind, our final usability test was based on refining the instruction set. A different aspect of our interface, tapping to request a beep, would have had very different results if we used users who were not blind instead of users who were. People who are blind typically navigate spaces by memorizing specific paths. We decided to implement tapping to request a beep instead of automatically givng intermittent beeps with this in mind; we imagine that they would use the beep primarily to reorient themselves if they get off track. We observed that users we actually conducted tests with would ask for beeps every second, but this behavior might not align with the reality of its use. Since our tests focused on our instruction set rather than the beeping, we were able to circumvent this potential problem. 
+
 
 ### Areas of Opportunity
 
